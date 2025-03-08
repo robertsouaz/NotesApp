@@ -33167,11 +33167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IsackGuilherme\\Projetos\\NotesApp\\NotesApp\\NotesApp.csproj",
+      "projectUniqueName": "D:\\2DSBeto\\Projetos\\NotesApp\\NotesApp\\NotesApp.csproj",
       "projectName": "NotesApp",
-      "projectPath": "D:\\IsackGuilherme\\Projetos\\NotesApp\\NotesApp\\NotesApp.csproj",
+      "projectPath": "D:\\2DSBeto\\Projetos\\NotesApp\\NotesApp\\NotesApp.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\IsackGuilherme\\Projetos\\NotesApp\\NotesApp\\obj\\",
+      "outputPath": "D:\\2DSBeto\\Projetos\\NotesApp\\NotesApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
